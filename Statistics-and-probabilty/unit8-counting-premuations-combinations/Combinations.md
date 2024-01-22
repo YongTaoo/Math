@@ -1,14 +1,16 @@
 # Combinations
 
-Intro to Combinations
+### Intro to Combinations
 
 ![combinations](lesson3\combinations.png)
 
-Combination formula
+ The probability *P* is equal to the reciprocal of the combination of 2 elements from a total of 8 elements. 
+
+### Combination formula
 
 ![combination-formula](lesson3\combination-formula.png)
 
-Handshaking combination
+### Handshaking combination
 
-Combination example: 9 card hands
+### Combination example: 9 card hands
 
